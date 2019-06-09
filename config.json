@@ -1,0 +1,20 @@
+{
+    "applyMember"        : "APPLY",
+    "applyCheckMember"   : "APPLYCHK",
+    "checkVersionMember" : "CHECKVE",
+    "checkVersionSpoolId": "102",
+    "copyMember"         : "COPY",
+    "expectedFixLevel"   : "SO07157",
+    "localFile"          : "SO07157",
+    "localFolder"        : "bin",
+    "maintainedMember"   : "GSVXASRM",
+    "maintainedPds"      : "CNM4BLOD",
+    "receiveMember"      : "RECEIVE",
+    "rejectMember"       : "REJECT",
+    "restoreMember"      : "RESTORE",
+    "remoteFile"         : "SO07157",
+    "remoteFolder"       : "/u/users/cust00n",
+    "remoteJclPds"       : "CUST00n.MTE.JCL",
+    "runtimeEnv"         : "PRODUCT.SVRUNn.MSTRBRS",
+    "smpeEnv"            : "PRODUCT.SYSV15.SMPEn"
+}
